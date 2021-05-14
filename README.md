@@ -1,7 +1,7 @@
 # Online-Room-Renting-Service
 Provides Online Rooms and Helps in finding New Roomates.
 
-It is developed in java using Java Servlets,JSP and MySQL.
+It is developed using Java Servlets,JSP and MySQL.
 
 An online Room Renting System will provide you the information about the rooms/flats/houses which are available for rent.
 
