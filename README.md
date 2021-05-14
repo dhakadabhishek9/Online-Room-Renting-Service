@@ -10,5 +10,3 @@ This Room Renting System website makes it easier to find available rooms/flats/h
 Here the landlord/owner can upload room images, expected rent, location, phone number and other details.
 
 User can see the available rooms/flats just by selecting the location and search.
-
-This project is developed as a Minor Project for 5th Semester.
